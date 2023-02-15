@@ -1,7 +1,7 @@
 <h1 align="center"> Weather App - React Native </h1>
 <p  align="center" width=>
-<img  src="./assets/screen.jpeg" height="470" alt=""  />
-<img  src="./assets/screen1.jpeg" height="470" alt=""  />
+<img  src="./assets/Screen.png" height="470" alt=""  />
+<img  src="./assets/Screen1.png" height="470" alt=""  />
 </p>
 
 ## 💻 Sobre o projeto
